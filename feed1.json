@@ -1,6 +1,7 @@
 ﻿{
 "screen":[
  "nameLabel",
- "addressLabel"
+ "addressLabel",
+ "ageLabel"
 ]
 }
